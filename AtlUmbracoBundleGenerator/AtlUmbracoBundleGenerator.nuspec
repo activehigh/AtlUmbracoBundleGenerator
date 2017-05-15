@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Atl.Umracocms.BundleGenerator</id>
+    <version>$version$</version>
+    <title>$title$</title>
+    <authors>brainless-coder</authors>
+    <owners>brainless-coder</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Allows user to minify javascript and stylesheets generated from umbraco backend.</description>
+    <releaseNotes>Inital Release.</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Umbracocms Umbraco Bundle Minifier</tags>
+  </metadata>
+</package>
