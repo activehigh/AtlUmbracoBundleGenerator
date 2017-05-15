@@ -7,6 +7,7 @@
     <authors>brainless-coder</authors>
     <owners>brainless-coder</owners>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
+	  <projectUrl>https://github.com/Activehigh/AtlUmbracoBundleGenerator</projectUrl>
     <description>Allows user to minify javascript and stylesheets generated from umbraco backend.</description>
     <releaseNotes>Inital Release.</releaseNotes>
     <copyright>Copyright 2017</copyright>
