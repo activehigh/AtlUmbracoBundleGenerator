@@ -2,6 +2,11 @@
 
 This is bundle minifier for Umbraco CMS. 
 
+Install:
+======
+    
+    Install-Package Atl.Umbracocms.BundleGenerator
+
 Step 1:
 ======
 Add javascript files in umbraco backend.
